@@ -1,0 +1,6 @@
+com/demo/stream/KafkaProperties.class
+com/demo/stream/Message.class
+com/demo/stream/Consumer.class
+com/demo/stream/MessageSerializer.class
+com/demo/stream/MessageDeserializer.class
+com/demo/stream/Publisher.class
